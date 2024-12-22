@@ -1,4 +1,4 @@
-# Sports-Team-management-system
+
 # Sports Team Management System
 
 ## Overview
